@@ -1,1 +1,1 @@
-# devcontainers-video2
+This is a template container for a Ruby on Rails app with a MySQL database
